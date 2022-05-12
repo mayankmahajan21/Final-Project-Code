@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlDataProvider>
+  <Events id="one1">
+    <ID>1</ID>
+    <FName>Ishita</FName>
+    <LName>Khare</LName>
+    <Date>06/23/2022</Date>
+    <Event_Type>Birthday</Event_Type>
+    <Venue> </Venue>
+    <Food> </Food>
+    <Guest_No_A>0</Guest_No_A>
+    <Guest_No_K>20</Guest_No_K>
+    <Venue_Cost>0</Venue_Cost>
+    <Cake> </Cake>
+    <Duration>3</Duration>
+    <tier>0</tier>
+    <Days>42</Days>
+  </Events>
+</XmlDataProvider>
